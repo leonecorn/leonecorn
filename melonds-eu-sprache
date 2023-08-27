@@ -1,0 +1,17 @@
+Wie man die Sprache der europäischen Version des Spiels in melonDS ändert Deutsch
+Es gibt im Wesentlichen zwei Möglichkeiten, dies zu tun. 
+Ich beschreibe sie auf der Basis von melonDS Version 0.9.5.
+Wähle deine bevorzugte Methode, 1 ist für den Moment bequem, aber wenn du die Einstellungen komplett ändern willst, empfehle ich 2.
+
+1. Der einfachste Weg ist
+Rufen Sie "config" - "firmware settings" auf, wählen Sie die Option "Override settings from external firmware", und wählen Sie Ihre bevorzugte Sprache unter "Language" unten.
+French (Français) German (Deutsch), Italian (Italiano), Spanish (Español)
+
+2. die Sprache über die Firmware des DS/DSi ändern (komplexe Methode)
+Bevor Sie dies tun, benötigen Sie die Firmware-Dateien!
+In "config" - "Emu settings" - "DS-mode", markieren Sie "Use external BIOS/firmware files" und fügen Sie die Firmware- und Bios-Dateien hinzu.
+Fügen Sie bios9.bin für DS ARM9 BIOS und bios7.bin für DS ARM7 BIOS hinzu,
+Fügen Sie die Datei firmware.bin zu "DS firmware" hinzu und wählen Sie "OK".
+Wählen Sie "File" - "Boot Firmware" - das kleine Nintendo-Symbol am unteren Rand des Bildschirms.
+Wählen Sie "Settings" (lila Symbol) - wählen Sie das Globus-Symbol.
+Wählen Sie Ihre bevorzugte Sprache und wählen Sie "confirm" oder die A-Taste.
